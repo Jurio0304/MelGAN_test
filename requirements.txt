@@ -1,0 +1,5 @@
+torch  -1.7.1 done
+librosa  -0.8.1 done
+pyyaml  -6.0 done
+scipy  -1.7.1 done
+argparse  -1.4.0 done

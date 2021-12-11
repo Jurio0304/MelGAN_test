@@ -1,0 +1,2 @@
+paper7_decode_wavs/imagine.wav
+paper7_decode_wavs/whisper.wav

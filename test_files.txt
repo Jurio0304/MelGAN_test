@@ -1,0 +1,5 @@
+wavs/001-tak.wav
+wavs/002-veel.wav
+wavs/003-helemaal.wav
+wavs/004-van.wav
+wavs/005-buurt.wav
