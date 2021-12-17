@@ -1,0 +1,3 @@
+!!python/object:argparse.Namespace {load_path: test_result, n_mel_channels: 40, n_residual_layers: 3,
+  n_test_samples: 100, ngf: 32, paper7_decode_wavs_path: paper7_decode_wavs, save_path: decode2generate_result,
+  seq_len: 8192}
